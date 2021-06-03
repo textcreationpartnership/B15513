@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most true and lamentable report, of a great tempest of haile which fell vpon a village in Kent, called Stockbery, about three myles from Cittingborne, the nintenth day of Iune last past. 1590. Whereby was destroyed great abundance of corne and fruite, to the impouerishing and vndoing of diuers men inhabiting within the same villages.</title>
+            <title>Most true and lamentable report, of a great tempest of haile which fell upon a village in Kent, called Stockbery, about three myles from Cittingborne, the nintenth day of June last past. 1590.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15513</idno><idno type="EEBO-CITATION">99841512</idno>
+  <idno type="VID">176904</idno>
+  <idno type="EEBO-PROQUEST">2240903048</idno>
+  <idno type="STC">STC 20889.7</idno>
+  <idno type="STC">ESTC S105786</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841512e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 717:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most true and lamentable report, of a great tempest of haile which fell vpon a village in Kent, called Stockbery, about three myles from Cittingborne, the nintenth day of Iune last past. 1590. Whereby was destroyed great abundance of corne and fruite, to the impouerishing and vndoing of diuers men inhabiting within the same villages.</title>
+                  <title>Most true and lamentable report, of a great tempest of haile which fell upon a village in Kent, called Stockbery, about three myles from Cittingborne, the nintenth day of June last past. 1590.</title>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by J. Wolfe] for the widow of Thomas Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Pages 2-3 lacking in number only.</note>
+                  <note>Identified as STC 23276b on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Storms --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Stockbury, England --  Storms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176904:1"/>
+            <p>❧ A most true and Lamentable Report, of a great Tempest of haile which fell vpon a <hi>Village in Kent, called Stockbery, about three</hi> myles from Cittingborne, the nintenth day of Iune last past. 1590.</p>
+            <p>
+               <hi>Whereby was destroyed great abun<g ref="char:EOLhyphen"/>dance</hi> of corne and fruite, to the impoue<g ref="char:EOLhyphen"/>rishing and vndoing of diuers men in<g ref="char:EOLhyphen"/>habiting within the same Village.</p>
+            <figure>
+               <figDesc>printer's embellishment</figDesc>
+            </figure>
+            <p>LONDON Printed for the widow of Thomas Butter. 1590.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176904:2"/>
+            <pb facs="tcp:176904:2"/>
+            <head>
+               <hi>A most true and lamentable Report of a great</hi> Tempest of haile which fell vpon a Village in Kent, cal<g ref="char:EOLhyphen"/>led Stockbery, about three myles from Cittingborne, the 19. day of Iune last past, 1590. whereby was destroyed great aboundance of corne and fruite, to the impouerishing and vndoing of diuers men inhabiting within the same Village.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the sinnes of men, the Lord hath sent sundry and grieuous plagues vpon the earth, some general, and some particuler, some in mercy to correct, and some in his iust wrath to confound the wicked of the world, and to worke amendment in the rest: for albeit the Lorde be mercifull, long suffering, and of great patientie, yet is he iust and righ<g ref="char:EOLhyphen"/>teous altogether, and at the length through too much prouo<g ref="char:EOLhyphen"/>cation sendeth vengeance from heauen for the punishment of sinne and wickednesse, as diuers examples of holy scripture doe testify. And such is the great goodnesse of our God, that before he plague any nation, citie, or countrie, he first sendeth warning thereof diuers and sundry wayes. Before the olde world was drowned Noe preached repentance vnto the people, foretelling that for their great sinnes the whole world should be ouerwhelmed: but they regarding not his wordes, nor fearing their vtter destruction, continued their lewde life, euen to the very day that Noe entered into the Arke, and so perished in the floud. Pharao the mightie King of Egypt holding the children of Israel in captiuitie, was by Moyses often warned to let them goe, before the tenne grieuous plagues was inflicted vpon him and his whole lande, not<g ref="char:EOLhyphen"/>withstanding, in the hardnesse of his hart, he with all his hoast perished in the redde sea. The great Citie Nineuy was by the Prophet Ionas foretolde that within forty dayes it should be destroyed, but the people repenting was spared. A<g ref="char:EOLhyphen"/>braham and Lotte among the Sodomites often declared how hote the wrath of God hung ouer them, for their filthy and abhominable sinne, but they despising their preaching, continued in all corruption, till fire and brimstone fell from
+<pb n="4" facs="tcp:176904:3"/>heauen, and vtterly consumed them. These examples are left writen for our instruction, vpon whom the endes of the world are come, which are sufficient to forwarne vs of the like punishment: but the Lord knowing our wickednesse, will he (thinke you) spare vs more then he spared them? or is he not as iust now, and his power as great as then it was? yes no doubt, for if he spared not the true Oliue, much lesse will he spare the wilde Oliue: for what priuiledge or prerogatiue haue we to sinne more then the Iewes had, for whom the Lord wrought so many wonders.</p>
+            <p>O England, high time it is to looke about thée, and to shake off thy manifold sinnes: too long hast thou slept in se<g ref="char:EOLhyphen"/>curitie, and blindly passed ouer not onely thy neighbours mi<g ref="char:EOLhyphen"/>series, but also the louing and gentle corrections which thy mercifull God hath visited thée withall, alluring thée by all meanes possible vnto repentance and consideration of thy soule offences: but neither the mouing of hilles out of their places, the Commets in the skye, earthquakes, dearth and famine, plague and pestilence, monstrous birthes, fearefull thunderclaps, raging windes, straunge sicknesse and diseases, sodaine death of magistrates, nor any thing els can procure thée to prostrat thy selfe before the mightie God which hath béene so mercifull and giuen thée so large a time of repen<g ref="char:EOLhyphen"/>tance, yet once againe the Lorde doth knocke at thy Dore, and biddeth thée at the last, while it is called to day, not onely to marke and behold with thy outwarde eye, the hailestones of vnaccustomed bignesse, which hath beaten to the ground and cleane spoiled the corne and fruite in the parish of Stock<g ref="char:EOLhyphen"/>bery in Kent, but also to print the remembraunce thereof in thy hart, and bitterly lament the cause thereof, and with an vnfained soule aske mercy of him for thy sinnes, lest a worse thing happen vnto thée: for as easie had it béene for the migh<g ref="char:EOLhyphen"/>tie God to haue with the same haile spoiled the corne in all the land, as to haue smitten so small a plotte, and as iustly might he haue done the same, but he whose propertie is euer to haue mercy, hath onely sent vs a taste of his heauie dis<g ref="char:EOLhyphen"/>pleasure, that by harty sorrow we might reforme our liues
+<pb n="5" facs="tcp:176904:3"/>and so preuent the insuing plagues.</p>
+            <p>Vpon Fryday the nintenth of Iune last past, <hi>1590.</hi> betwéene thrée and foure of the clocke in the after noone, there beganne a mightie tempest of haile, in the parish of Stockbery in Kent, so grieuous and terrible to behold, that the people were not onely amazed thereat, but also were striken into such a feare therewith that they knew not which way to turne them: the stones were so great, and fell with such a mightie force, in so much that the Church and all the houses which had windowes on the South side, had all the same windowes broken downe with the haile, as well the lead as the glasse, and nothing left standing but the bar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> frame, but most lamentable to report, all such men as had ei<g ref="char:EOLhyphen"/>ther corne on the ground, or fruite on their trées, had it quite beaten downe to the earth, and the fruite beaten off with the leaues and sprigs most pitifull to behold: and although the tempest lasted not long, yet for the time it was most terrible and great hurt was done thereby: Maister Potman hath lost by the same tempest to the vallue of an hundred pound in corne. Goodman Allin hath lost fiftie and sixe Acres of wheat, no man will giue twentie shillinges for it all, in so much that it is faine to be mowne vp with sithes to make fodder there<g ref="char:EOLhyphen"/>of. Iohn Séede hath lost twelue Acres of wheate, all which is good for nothing. Goodman Edwardes hath lost all the corne he hath. William Lot of Cowsted hath also lost to the vallue of twentie poundes in wheat, pease, and tares: like<g ref="char:EOLhyphen"/>wise diuers others haue sustained great losse both of corne and fruite, as maister Hakes, goodman Kerbye, goodman Plat, Ieremy, Taylor, Bartelmew, and diuers other. To conclude, all the Wheate, Rye, Pease, Tares, Barley, Hempe, Fruite, Cheries with the leaues and braunches was with this mightie halle smitten and brused that it is vnprofitble for any thing, and (which is most straunge) we doe not heare of any harme done in any place els. Maister Edwardes garden consisting altogether of fruite, is worse by twentie pounde then it was: Maister Knights Gar<g ref="char:EOLhyphen"/>den is cleane spoiled to his great losse and hinderaunce,</p>
+            <pb n="6" facs="tcp:176904:4"/>
+            <p> And here is to be noted the great prouidence of God to<g ref="char:EOLhyphen"/>ward his seruants, a certaine maide dwelling with the same master knight, hauing been abroad the same instant to fetch in a company of young géese or goslinges, had her armes smitten with the hayle in such sort that the bloud gushed out at diuers places, and yet it pleased God that none of them should light eyther vpon her head or face, wherby she might be eyther brayned or disfigured the hailestones being some foure inches and a halfe about, and fiue inches of assise, good measure, neither do I heare that any man, woman, childe, or any other liuing beast was hurt therewith, the Lorde be thanked therefore. And God so preserued the poore parish of Hartlen being within lesse then a mile of Stockburie, that it receiued no harme at all, his name be blessed therefore. The persons here that sustayned this losse, I haue by name set downe, to the end that all those that knowe the men or their dwelling place, may inquire whether this report be true or no, and for the better satisfying of the courteous rea<g ref="char:EOLhyphen"/>der. But if any should estéeme hereof as a matter of chance or fortune, or as a thing done by naturall course of the pla<g ref="char:EOLhyphen"/>nets, that it should fall in that place, and worke such harme there aboue all other places, I would wish such men to con<g ref="char:EOLhyphen"/>sider &amp; search in the booke of God, if thereby he can confirme his opinion, but if a sparrowe cannot light vpon the ground without Gods permission and prouidence, as our Sauiour affirmeth, how then can so great a punishment light in so small a compasse without his speciall direction, is there any euill (sayth the Lord) done in the Citie, which I doe not (yet is not the Lord author of that euill) your destruction is of your selues, O ye house of Israell, but grace and mercie commeth from me (sayth the Lord.) No, the diuell himselfe could not touch, neither the goods, nor the bodie of iust Iob, before the Lord had giuen him leaue, therefore we must of force confesse that this was a punishment for sinne. Our ingratitude against God, our malice and enuie one towards an other, our crueltie and oppression, fraud and deceipt, hath deserued farre worse plagues then this, for there is no truth
+<pb n="7" facs="tcp:176904:4"/>nor feare of God in the land, no loue, pittie, nor mercie one toward an other. For why? the foole hath sayd in his hart there is no God, they are all gone out of the way they are altogether become abhominable, there is none that doeth good no not one. Therefore let vs not excuse our selues and thinke these men are greater sinners then we, because they haue tasted of more punishment then we, but except we re<g ref="char:EOLhyphen"/>pent a greater plague is prepared for vs, which GOD for Christes sake turne away, and so direct our hearts &amp; minds, that we may alwayes doe those thinges which are most a<g ref="char:EOLhyphen"/>gréeable to thy blessed will, that both our life and death may be to the glorie of thy holy name. And hereby are we taught to knowe, that nothing on earth is parmanent or lasting, but that we are as stewards of the Lorde to render account for that which is committed into our handes, therefore as well aduersitie, as prosperitie is to be taken thankefully, in vaine therefore do men promise vnto themselues that which they know not how long they shall enioy, in consideration whereof, Saint Paule doth admonish, that if riches doe a<g ref="char:EOLhyphen"/>bound we should not set our hearts thereon, but vse them to the glory of him that gaue them, and not to be like vnto him that built his barnes bigger, and saide vnto himselfe, soule take thy rest and case, for thou art stord for many yéeres, but answere was by and by made, Thou foole this night shal thy soule be taken from thée, and then whose shal all these things be. Let no man therefore bragge of that he hath, as too ma<g ref="char:EOLhyphen"/>ny in these dayes doo, saying this is my owne, and that is my possession to dispose at my pleasure, and who shall let me to doo with mine owne as it séemeth good in my eyes, but the Apostle sayth, vnthankefull man, what hast thou, which thou hast not receiued, if then thou didst receiue it, why dost thou boast as if thou hadst not receaued it. In déede thou doest labour and till the earth, thou sowest séede and takest paines, but except the Lord blesse thy labour, all is lost, and yet herein thou doest but thy duetie, for the Lord hath com<g ref="char:EOLhyphen"/>manded that with the sweate of thy face thou shouldest get thy bread. Therefore thy paine of it selfe deserueth no be<g ref="char:EOLhyphen"/>nefite
+<pb n="8" facs="tcp:176904:5"/>at all, but it is the Lordes goodnesse to send a blessing to thy labour, for which he requesteth nothing but a thank<g ref="char:EOLhyphen"/>full heart. Neither let them grudge that haue tasted of this fatherly correction, for whom the Lord loueth he chasteneth and scourgeth euerie sonne that he receiueth, therefore they may rather say with the Prophet Dauid, it was good for me that the Lord did chasten me, for in my prosperitie I sayd, I can neuer be remooued: and with Iob conferre, the Lorde doth giue, and the Lorde doth take away, as it pleaseth the Lord so commeth things to passe, blessed be the name of the Lord. Moreouer, hereby is their faith tryed, and their pa<g ref="char:EOLhyphen"/>tient heart made knowen among Christians, saying with the iust man shall I receiue good thinges at the hande of my God, and not be content to receiue some bad thinges also? Heauinesse may endure for a night, but ioy commeth in the morning: let them consider that he which cast them downe can rayse them vp, for the Lorde doth neuer fayle those that put their trust in him, Those which are neighbours to these men, and all that shall heare of this calamitie, call vnto your minde, that if the Lord should deale in iustice, you had deser<g ref="char:EOLhyphen"/>ued as much as they, neither doe we knowe howe soone the Lord will visite vs, knowing that both our goods and liues doo rest at his pleasure, to spare, or to spoyle, as séemeth good in his sight, reioyce therefore at no mans fall, least a greater destruction come vppon thy selfe, but rather as the Apostle sayth, reioyce with them that reioyce, &amp; mourne with them that mourne, be like affected one toward an other, knowing we haue one God to our Father, one Christ to our Redée<g ref="char:EOLhyphen"/>mer, and one holy-Ghost to our Sanctifier, therfore as mē<g ref="char:EOLhyphen"/>bers of one bodie, let vs beare one anothers sorrowe, &amp; séeke to succor one an other with all gladnesse of hart, because we know not howe soone we may haue neede our selues: and withall let all men, women, and children pray vnto God, and with earnest &amp; hūble harts desire him to turne those plagues from vs which our wickednes haue most iustly deserued and be more thankefull henceforth for the blessings which so long he hath bestowed vpon vs which the Lord grant for Christs sake, Amen,</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
